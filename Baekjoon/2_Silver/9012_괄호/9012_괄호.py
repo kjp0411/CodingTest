@@ -1,4 +1,4 @@
-https://www.acmicpc.net/problem/9012
+# https://www.acmicpc.net/problem/9012
 
 # 문제 분석
 # VPS가 되기 위한 조건은 다음과 같습니다:
